@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: dd6d9455e0e7f9844a5a5c6b6c3e3d41
+timeCreated: 1519841260
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000
+  assetHash:
+    serializedVersion: 2
+    Hash: cc0b507b36e24cc78d2cf3e99caf6e2c
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 4.8593946, y: 4.0572085, z: -4.7112412}
+      lookAt: {x: 4.0137315, y: -0.24714339, z: 8.4382105}
+      up: {x: -0.019928759, y: 0.95056754, z: 0.3098779}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BDI Strata Coffee Table, 28 in. wide by Smart Furniture
+    100002: box
+    100004: Couch
+    100006: Curtain
+    100008: Curtain 1
+    100010: Curtain 2
+    100012: Curtain 3
+    100014: Curtain Rod with curtains
+    100016: Curtain Rod with curtains 1
+    100018: curtains
+    100020: cutting sticker
+    100022: drawer
+    100024: drawer 1
+    100026: Group 100
+    100028: Group 102
+    100030: Group 104
+    100032: Group 106
+    100034: Group 108
+    100036: Group 11
+    100038: Group 110
+    100040: Group 112
+    100042: Group 115
+    100044: Group 117
+    100046: Group 119
+    100048: Group 121
+    100050: Group 122
+    100052: Group 124
+    100054: Group 126
+    100056: Group 127
+    100058: Group 129
+    100060: Group 13
+    100062: Group 131
+    100064: Group 133
+    100066: Group 134
+    100068: Group 136
+    100070: Group 138
+    100072: Group 140
+    100074: Group 142
+    100076: Group 144
+    100078: Group 147
+    100080: Group 149
+    100082: Group 15
+    100084: Group 159
+    100086: Group 166
+    100088: Group 20
+    100090: Group 21
+    100092: Group 22
+    100094: Group 24
+    100096: Group 26
+    100098: Group 28
+    100100: Group 3
+    100102: Group 30
+    100104: Group 32
+    100106: Group 34
+    100108: Group 36
+    100110: Group 38
+    100112: Group 40
+    100114: Group 42
+    100116: Group 44
+    100118: Group 46
+    100120: Group 48
+    100122: Group 5
+    100124: Group 50
+    100126: Group 52
+    100128: Group 54
+    100130: Group 56
+    100132: Group 58
+    100134: Group 60
+    100136: Group 62
+    100138: Group 64
+    100140: Group 66
+    100142: Group 68
+    100144: Group 7
+    100146: Group 70
+    100148: Group 72
+    100150: Group 74
+    100152: Group 76
+    100154: Group 78
+    100156: Group 80
+    100158: Group 82
+    100160: Group 84
+    100162: Group 86
+    100164: Group 88
+    100166: Group 9
+    100168: Group 90
+    100170: Group 92
+    100172: Group 94
+    100174: Group 96
+    100176: Group 98
+    100178: Group#111
+    100180: //RootNode
+    100182: leg
+    100184: leg 1
+    100186: Line106
+    100188: Line107
+    100190: Paxfocus fireplace
+    100192: paxfocus.dwg
+    100194: Rugs USA Homespun Trellis Charcoal Rug 3'6 x 5'6
+    100196: top
+    100198: tv 55 curved kaki
+    100200: west elm - Antique Tiled Floor Mirror
+    400000: BDI Strata Coffee Table, 28 in. wide by Smart Furniture
+    400002: box
+    400004: Couch
+    400006: Curtain
+    400008: Curtain 1
+    400010: Curtain 2
+    400012: Curtain 3
+    400014: Curtain Rod with curtains
+    400016: Curtain Rod with curtains 1
+    400018: curtains
+    400020: cutting sticker
+    400022: drawer
+    400024: drawer 1
+    400026: Group 100
+    400028: Group 102
+    400030: Group 104
+    400032: Group 106
+    400034: Group 108
+    400036: Group 11
+    400038: Group 110
+    400040: Group 112
+    400042: Group 115
+    400044: Group 117
+    400046: Group 119
+    400048: Group 121
+    400050: Group 122
+    400052: Group 124
+    400054: Group 126
+    400056: Group 127
+    400058: Group 129
+    400060: Group 13
+    400062: Group 131
+    400064: Group 133
+    400066: Group 134
+    400068: Group 136
+    400070: Group 138
+    400072: Group 140
+    400074: Group 142
+    400076: Group 144
+    400078: Group 147
+    400080: Group 149
+    400082: Group 15
+    400084: Group 159
+    400086: Group 166
+    400088: Group 20
+    400090: Group 21
+    400092: Group 22
+    400094: Group 24
+    400096: Group 26
+    400098: Group 28
+    400100: Group 3
+    400102: Group 30
+    400104: Group 32
+    400106: Group 34
+    400108: Group 36
+    400110: Group 38
+    400112: Group 40
+    400114: Group 42
+    400116: Group 44
+    400118: Group 46
+    400120: Group 48
+    400122: Group 5
+    400124: Group 50
+    400126: Group 52
+    400128: Group 54
+    400130: Group 56
+    400132: Group 58
+    400134: Group 60
+    400136: Group 62
+    400138: Group 64
+    400140: Group 66
+    400142: Group 68
+    400144: Group 7
+    400146: Group 70
+    400148: Group 72
+    400150: Group 74
+    400152: Group 76
+    400154: Group 78
+    400156: Group 80
+    400158: Group 82
+    400160: Group 84
+    400162: Group 86
+    400164: Group 88
+    400166: Group 9
+    400168: Group 90
+    400170: Group 92
+    400172: Group 94
+    400174: Group 96
+    400176: Group 98
+    400178: Group#111
+    400180: //RootNode
+    400182: leg
+    400184: leg 1
+    400186: Line106
+    400188: Line107
+    400190: Paxfocus fireplace
+    400192: paxfocus.dwg
+    400194: Rugs USA Homespun Trellis Charcoal Rug 3'6 x 5'6
+    400196: top
+    400198: tv 55 curved kaki
+    400200: west elm - Antique Tiled Floor Mirror
+    2100000: _defaultMat
+    2100002: '[Color_D20]'
+    2100004: Derrick_Pants
+    2100006: '[Metal_Corrogated_Shiny]'
+    2100008: nyalaEmisive
+    2100010: '[Josh_Pants]'
+    2100012: '[Stone_Masonry_Multi]'
+    2100014: Leather_soft_ Brown_bump_
+    2100016: _1
+    2100018: '[Carpet_Loop_Pattern]'
+    2100020: _16
+    2100022: Picture 1
+    2100024: _15
+    2100026: tmp30A8.tmp_tcm20-131132
+    2100028: Cermin Bronze
+    2100030: bronze mirror
+    2100032: HPL pure flora
+    2100034: '[Mirror 02]2'
+    2100036: Putih Gloss
+    2100038: kacaes
+    2100040: AL chrome
+    2100042: '[Aluminum]'
+    2100044: LayarTV1
+    2100046: decor
+    2100048: '[WarmGray1]'
+    2100050: Curtain
+    2100052: _18
+    2100054: _19
+    2100056: black fireplace
+    2100058: '[Color_009]'
+    2100060: black fireplace1
+    2100062: fuego
+    2100064: _34
+    2100066: rug texture
+    2300000: box
+    2300002: Curtain
+    2300004: Curtain 1
+    2300006: Curtain 2
+    2300008: Curtain 3
+    2300010: cutting sticker
+    2300012: drawer
+    2300014: drawer 1
+    2300016: Group 100
+    2300018: Group 102
+    2300020: Group 104
+    2300022: Group 106
+    2300024: Group 108
+    2300026: Group 11
+    2300028: Group 110
+    2300030: Group 112
+    2300032: Group 115
+    2300034: Group 117
+    2300036: Group 119
+    2300038: Group 122
+    2300040: Group 124
+    2300042: Group 127
+    2300044: Group 129
+    2300046: Group 13
+    2300048: Group 131
+    2300050: Group 134
+    2300052: Group 136
+    2300054: Group 138
+    2300056: Group 140
+    2300058: Group 142
+    2300060: Group 144
+    2300062: Group 147
+    2300064: Group 149
+    2300066: Group 15
+    2300068: Group 159
+    2300070: Group 166
+    2300072: Group 22
+    2300074: Group 24
+    2300076: Group 26
+    2300078: Group 28
+    2300080: Group 3
+    2300082: Group 30
+    2300084: Group 32
+    2300086: Group 34
+    2300088: Group 36
+    2300090: Group 38
+    2300092: Group 40
+    2300094: Group 42
+    2300096: Group 44
+    2300098: Group 46
+    2300100: Group 48
+    2300102: Group 5
+    2300104: Group 50
+    2300106: Group 52
+    2300108: Group 54
+    2300110: Group 56
+    2300112: Group 58
+    2300114: Group 60
+    2300116: Group 62
+    2300118: Group 64
+    2300120: Group 66
+    2300122: Group 68
+    2300124: Group 7
+    2300126: Group 70
+    2300128: Group 72
+    2300130: Group 74
+    2300132: Group 76
+    2300134: Group 78
+    2300136: Group 80
+    2300138: Group 82
+    2300140: Group 84
+    2300142: Group 86
+    2300144: Group 88
+    2300146: Group 9
+    2300148: Group 90
+    2300150: Group 92
+    2300152: Group 94
+    2300154: Group 96
+    2300156: Group 98
+    2300158: //RootNode
+    2300160: leg
+    2300162: leg 1
+    2300164: Line106
+    2300166: Line107
+    2300168: paxfocus.dwg
+    2300170: Rugs USA Homespun Trellis Charcoal Rug 3'6 x 5'6
+    2300172: top
+    3300000: box
+    3300002: Curtain
+    3300004: Curtain 1
+    3300006: Curtain 2
+    3300008: Curtain 3
+    3300010: cutting sticker
+    3300012: drawer
+    3300014: drawer 1
+    3300016: Group 100
+    3300018: Group 102
+    3300020: Group 104
+    3300022: Group 106
+    3300024: Group 108
+    3300026: Group 11
+    3300028: Group 110
+    3300030: Group 112
+    3300032: Group 115
+    3300034: Group 117
+    3300036: Group 119
+    3300038: Group 122
+    3300040: Group 124
+    3300042: Group 127
+    3300044: Group 129
+    3300046: Group 13
+    3300048: Group 131
+    3300050: Group 134
+    3300052: Group 136
+    3300054: Group 138
+    3300056: Group 140
+    3300058: Group 142
+    3300060: Group 144
+    3300062: Group 147
+    3300064: Group 149
+    3300066: Group 15
+    3300068: Group 159
+    3300070: Group 166
+    3300072: Group 22
+    3300074: Group 24
+    3300076: Group 26
+    3300078: Group 28
+    3300080: Group 3
+    3300082: Group 30
+    3300084: Group 32
+    3300086: Group 34
+    3300088: Group 36
+    3300090: Group 38
+    3300092: Group 40
+    3300094: Group 42
+    3300096: Group 44
+    3300098: Group 46
+    3300100: Group 48
+    3300102: Group 5
+    3300104: Group 50
+    3300106: Group 52
+    3300108: Group 54
+    3300110: Group 56
+    3300112: Group 58
+    3300114: Group 60
+    3300116: Group 62
+    3300118: Group 64
+    3300120: Group 66
+    3300122: Group 68
+    3300124: Group 7
+    3300126: Group 70
+    3300128: Group 72
+    3300130: Group 74
+    3300132: Group 76
+    3300134: Group 78
+    3300136: Group 80
+    3300138: Group 82
+    3300140: Group 84
+    3300142: Group 86
+    3300144: Group 88
+    3300146: Group 9
+    3300148: Group 90
+    3300150: Group 92
+    3300152: Group 94
+    3300154: Group 96
+    3300156: Group 98
+    3300158: //RootNode
+    3300160: leg
+    3300162: leg 1
+    3300164: Line106
+    3300166: Line107
+    3300168: paxfocus.dwg
+    3300170: Rugs USA Homespun Trellis Charcoal Rug 3'6 x 5'6
+    3300172: top
+    4300000: Mesh Simple Template - Feet and Inches
+    4300002: Mesh Group 3
+    4300004: Mesh Group 5
+    4300006: Mesh Group 7
+    4300008: Mesh Group 9
+    4300010: Mesh Group 11
+    4300012: Mesh Group 13
+    4300014: Mesh Group 15
+    4300016: Mesh Group 22
+    4300018: Mesh Group 110
+    4300020: Mesh Group 112
+    4300022: Mesh Group 115
+    4300024: Mesh Group 117
+    4300026: Mesh Group 119
+    4300028: Mesh Group 122
+    4300030: Mesh Group 124
+    4300032: Mesh Group 131
+    4300034: Mesh Group 134
+    4300036: Mesh Group 136
+    4300038: Mesh Group 140
+    4300040: Mesh Group 142
+    4300042: Mesh Group 144
+    4300044: Mesh Group 147
+    4300046: Mesh Group 149
+    4300048: Mesh cutting sticker
+    4300050: Mesh Line106
+    4300052: Mesh Line107
+    4300054: Mesh Group 159
+    4300056: Mesh Curtain
+    4300058: Mesh top
+    4300060: Mesh leg
+    4300062: Mesh box
+    4300064: Mesh drawer
+    4300066: Mesh paxfocus.dwg
+    4300068: Mesh Rugs USA Homespun Trellis Charcoal Rug 3'6 x 5'6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
