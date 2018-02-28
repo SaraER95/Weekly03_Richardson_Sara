@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weekly03_Richardson_Sara", "Weekly03_Richardson_Sara.csproj", "{9EA51280-E873-94A0-D2AE-86FAE157CBC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weekly03_Richardson_Sara.Editor", "Weekly03_Richardson_Sara.Editor.csproj", "{FE6309FC-8F91-4FB2-0FEC-53814DAA15AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA51280-E873-94A0-D2AE-86FAE157CBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA51280-E873-94A0-D2AE-86FAE157CBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA51280-E873-94A0-D2AE-86FAE157CBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA51280-E873-94A0-D2AE-86FAE157CBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6309FC-8F91-4FB2-0FEC-53814DAA15AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6309FC-8F91-4FB2-0FEC-53814DAA15AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6309FC-8F91-4FB2-0FEC-53814DAA15AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6309FC-8F91-4FB2-0FEC-53814DAA15AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
